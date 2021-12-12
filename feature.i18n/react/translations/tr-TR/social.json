@@ -1,0 +1,14 @@
+{
+  "social": {
+    "label": "Sosyal Ağlar",
+    "type": {
+      "website": "Web Sitesi",
+      "github": "GitHub",
+      "gitlab": "GitLab",
+      "donatebot": "Donatebot",
+      "direct-link": "Direct Link",
+      "vimeo": "Vimeo",
+      "helpdesk": "Helpdesk"
+    }
+  }
+}

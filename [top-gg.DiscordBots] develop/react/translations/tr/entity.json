@@ -1,0 +1,62 @@
+{
+  "entity": {
+    "review-disclaimer": "Değerlendirmeler yalnızca kayıt olmuş kullanıcılar tarafından yapılabilir. Tüm değerlendirmeler top.gg yetkilileri tarafından kontrol edilmektedir. Lütfen, değerlendirmenizi yapmadan önce <a>yönergelerimizi</a> gözden geçirdiğinizden emin olunuz.",
+    "bot": {
+      "platform": {
+        "discord": "Discord Botu",
+        "minecraft": "Minecraft {count, plural, one {Bot} other {Bots}}",
+        "guilded": "Guilded Botu"
+      }
+    },
+    "plugin": {
+      "platform": {
+        "discord": "Discord {count, plural, one {Plugin} other {Plugins}}",
+        "minecraft": "Minecraft Eklentisi",
+        "guilded": "Guilded {count, plural, one {Plugin} other {Plugins}}"
+      }
+    },
+    "mod": {
+      "platform": {
+        "discord": "Discord {count, plural, one {Mod} other {Mods}}",
+        "minecraft": "Minecraft {count, plural, one {Mod} other {Mods}}",
+        "guilded": "Guilded {count, plural, one {Mod} other {Mods}}"
+      }
+    },
+    "server": {
+      "platform": {
+        "discord": "Discord Sunucusu",
+        "minecraft": "Minecraft Sunucusu",
+        "guilded": "Guilded Sunucusu"
+      }
+    },
+    "announcements": {
+      "published-at": "{published, date, long} tarihinde yayınlandı"
+    },
+    "reviews": {
+      "description": "{count, plural, other {# değerlendirmeye}} göre",
+      "label": "Derecelendirmeler & Yorumlar",
+      "replying-to-user": "{user} yanıtlanıyor",
+      "no-reviews": "No reviews here yet!",
+      "moderator-cleared": "You cannot report this review again because it was cleared by a moderator.",
+      "already-reported": "Bu değerlendirme zaten bildirildi",
+      "no-reviews-yet": "Henüz Değerlendirme Yok",
+      "reported-disclaimer": "Bu inceleme bildirildi ve moderasyon ekibimiz tarafından kontrol ediliyor.",
+      "n-reviews": "{formattedReviewCount} değerlendirme",
+      "n-votes-in-month": "{month} ayında {votes, plural, other {# oy}}",
+      "based-on-x-reviews": "{formattedReviewCount} değerlendirmeye göre"
+    },
+    "sidebar": {
+      "donate": "Bağış yap",
+      "prefix": "Ön ek",
+      "overview": "Genel bakış",
+      "creator": "{count, plural, one {Creator} other {Creators}}",
+      "server-count": "Sunucu Sayısı",
+      "shard-count": "Shardlar",
+      "support-server": "Destek Sunucusu",
+      "reviewer-controls": "İnceleyici Kontrolleri",
+      "creator-controls": "Sahip Kontrolleri",
+      "emote-count": "Emoji Sayısı",
+      "member-count": "Üye Sayısı"
+    }
+  }
+}

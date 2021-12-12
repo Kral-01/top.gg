@@ -1,0 +1,57 @@
+{
+  "page-metadata": {
+    "404": {
+      "title": "Bulunamadı",
+      "description": "Sayfa bulunamadı"
+    },
+    "500": {
+      "title": "Bir şeyler ters gitti",
+      "description": "We received an error response on this page"
+    },
+    "home": {
+      "title": "Top.gg",
+      "description": "Top.gg - Çeşitli Discord botlarımızla Discord deneyiminizi renklendirin"
+    },
+    "advertise": {
+      "title": "Top.gg | Advertising"
+    },
+    "privacy": {
+      "title": "Top.gg | Kullanım Şartları"
+    },
+    "premium": {
+      "title": "Top.gg | Abonelik",
+      "description": "Subscribe to Top.gg Premium and abolish advertisements!"
+    },
+    "tags": {
+      "title": "Top.gg | Etiketler"
+    },
+    "terms": {
+      "title": "Top.gg | Şartlar"
+    },
+    "approvals": {
+      "title": "Top.gg | Onaylamalar"
+    },
+    "moderation": {
+      "title": "Top.gg | Moderasyon"
+    },
+    "reviews": {
+      "title": "Top.gg | Reviews"
+    },
+    "servers": {
+      "title": "Top.gg | Sunucular",
+      "description": "Sunucular - Çeşitli Discord sunucularımızla Discord deneyiminizi renklendirin"
+    },
+    "create-team": {
+      "title": "Top.gg | Yeni takım"
+    },
+    "profile": {
+      "description": "{user} kullanıcısının profili"
+    },
+    "invitations": {
+      "title": "Top.gg | {user} kullanıcısının davetiyeleri"
+    },
+    "search": {
+      "title": "Top.gg | {query} için arama sonuçları"
+    }
+  }
+}

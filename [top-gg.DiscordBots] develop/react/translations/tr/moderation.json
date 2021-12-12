@@ -1,0 +1,8 @@
+{
+  "moderation": {
+    "label": "Moderasyon",
+    "your-quota-summary": "{week} haftasında {current}/{total} bot inceledin.",
+    "you-were-excused": "Bu hafta izinlisin.",
+    "user-was-excused": "Bu kullanıcı izinli."
+  }
+}

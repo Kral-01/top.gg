@@ -1,0 +1,48 @@
+{
+  "keyboard": {
+    "key": {
+      "enter": "Enter",
+      "return": "Geri dön",
+      "esc": "Esc"
+    }
+  },
+  "actions": {
+    "feedback": {
+      "like": "Beğenildi",
+      "report": "Rapor Edildi",
+      "copy": "Kopyalandı",
+      "publish": "Yayınla"
+    },
+    "view": "Görüntüle",
+    "like": "Beğen",
+    "invite": "Davet et",
+    "vote": "Oy Ver",
+    "reply": "Cevapla",
+    "reset": "Sıfırla",
+    "search-prompt": "Aramak için \"Enter\" tuşuna basın",
+    "upload-icon": "Simge Yükle",
+    "save": "Kaydet",
+    "preview": "Ön izleme",
+    "edit": "Düzenle",
+    "refresh-data": "Verileri Yenile",
+    "refresh-servers": "Sunucu listesini yenile",
+    "delete": "Sil",
+    "approve": "Onayla",
+    "decline": "Reddet",
+    "submit": "Onayla",
+    "report": "Rapor et",
+    "login": "Giriş yap",
+    "go-back": "Geri dön",
+    "give-role": "Rol Ver",
+    "remove-role": "Remove Role",
+    "join-discord": "Discord'a Katıl",
+    "publish": "Yayınla",
+    "invite-to-verification-center": "Onaylama Merkezine davet et",
+    "show-review": "Yorumu göster",
+    "hide-review": "Yorumu gizle",
+    "add-a-bot": "Bot ekle",
+    "add-a-server": "Sunucu ekle",
+    "add-to-topgg": "Top.gg'ye ekle",
+    "copy": "Kopyala"
+  }
+}

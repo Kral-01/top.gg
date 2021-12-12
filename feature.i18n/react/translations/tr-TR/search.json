@@ -1,0 +1,31 @@
+{
+  "search": {
+    "activity": {
+      "discord-bot-users": "Discord Sunucuları",
+      "discord-bot-activity": "Sunucu Etkinliği",
+      "discord-bot-userGrowth": "Sunucu artışı",
+      "discord-server-users": "Üyeler",
+      "discord-server-activity": "Üye Etkinliği",
+      "discord-server-userGrowth": "Üye artışı",
+      "minecraft-bot-users": "Minecraft Sunucuları",
+      "minecraft-bot-activity": "Sunucu Etkinliği",
+      "minecraft-bot-userGrowth": "Sunucu artışı",
+      "minecraft-server-users": "Üyeler",
+      "minecraft-server-activity": "Üye Etkinliği",
+      "minecraft-server-userGrowth": "Üye artışı",
+      "guilded-bot-users": "Guilded sunucuları",
+      "guilded-bot-activity": "Sunucu Etkinliği",
+      "guilded-bot-userGrowth": "Sunucu artışı",
+      "guilded-server-users": "Üyeler",
+      "guilded-server-activity": "Üye Etkinliği",
+      "guilded-server-userGrowth": "Üye artışı"
+    },
+    "filters": "Filtreler",
+    "history": "Arama Geçmişi",
+    "use-esc-to-dismiss": "Use {keyGroup} to dismiss",
+    "press-enter-to-search": "Press {keyGroup} to Search",
+    "use-return-to-select": "Use {keyGroup} to select",
+    "arrow-keys-to-navigate": "Use arrow keys {keyGroup} to navigate",
+    "im-looking-for": "Aradığım şey"
+  }
+}

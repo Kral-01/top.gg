@@ -1,0 +1,15 @@
+{
+  "dashboard": {
+    "sidebar": {
+      "projects": "Projeler",
+      "general": "Genel",
+      "team-info": "Takım bilgisi",
+      "members": "Üyeler",
+      "user-info": "Kullanıcı Bilgisi",
+      "subscriptions": "Abonelikler",
+      "invitations": "Davetiyeler",
+      "mod-info": "Moderatör bilgisi",
+      "handbook": "Kitapçık"
+    }
+  }
+}

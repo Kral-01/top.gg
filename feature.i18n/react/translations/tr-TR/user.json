@@ -1,0 +1,21 @@
+{
+  "user": {
+    "platform-id-explanation": "Belirtilen kullanıcının {platform} ID'si",
+    "grant-role": "Top.gg'de kullanıcıya verilecek rol",
+    "new-team": "Yeni Takım",
+    "badge": {
+      "premium": "Top.gg Premium",
+      "site-moderator": "Site Moderatörü",
+      "administrator": "Yönetici",
+      "bot-reviewer": "Bot İnceleyici"
+    },
+    "profile": {
+      "bots": "Botlar",
+      "guilds": "Sunucular",
+      "edit": "Profili Düzenle",
+      "connections": "Bağlantılar",
+      "copy-hint": "Click on a connection to copy the User ID",
+      "teams": "Takımlar"
+    }
+  }
+}
